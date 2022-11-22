@@ -1,0 +1,34 @@
+.input-row-radio {
+    flex-direction: column;
+    margin-left: 40px;
+    display: flex;
+    align-items: baseline;
+    width: fit-content;
+}
+
+[type="checkbox"] {
+    width: fit-content;
+    cursor: pointer;
+}
+
+[type="radio"] {
+    width: fit-content;
+    cursor: pointer;
+}
+
+.label-radio {
+    margin-left: 0;
+    font-size: 22px;
+    color: #000000;
+}
+
+.input-row {
+    display: flex;
+    margin-bottom: 35px;
+    align-items: baseline;
+}
+
+
+
+
+
